@@ -133,6 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [resume-claim-guard](https://github.com/korey2028-prog/resume-claim-guard) - Fact-verification guard that interviews candidates first and restricts tailored resume claims and mock interview answers to confirmed facts.
 
 
 ## 📘 Learning & Knowledge  
